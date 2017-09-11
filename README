@@ -1,0 +1,2 @@
+# docker-pa11y-ci
+Docker container to run http://pa11y.org.  Docker volume mount the config.json file to /workspace/config.json.
